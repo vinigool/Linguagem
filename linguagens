@@ -1,0 +1,19 @@
+Trabalho de linguagens:
+
+Python: Python oferece a possibilidade de aplicar a lógica de programação diretamente ao código, sem a necessidade 
+de dominar conceitos abstratos, como classe e compilador.Uma das vantagens de Python é a sua sintaxe simples e 
+legível, o que facilita o aprendizado, especialmente para iniciantes na programação. A linguagem utiliza palavras-chave 
+em inglês e possui uma estrutura de código intuitiva, tornando-a acessível para aqueles que estão começando a programar.
+
+C#: As variáveis do tipo de dados primitivos na linguagem C# são mais poderosas. Na linguagem C# as variáveis do tipo de 
+dados primitivos são objetos e podem chamar funções. Na linguagem Java as variáveis do tipo primitivo não podem chamar 
+funções. A linguagem C# possui recursos como Properties e Indexers.Suporte à orientação a objetos: por implementar o 
+paradigma da orientação a objetos, o C# permite a criação de classes, objetos e interfaces, além da aplicação de conceitos 
+como herança, polimorfismo e encapsulamento.
+
+JavaScript: Java cria aplicações executadas em uma máquina virtual ou em um browser, ao passo que o código JavaScript é 
+executado apenas em um browser. O código Java precisa ser compilado, ao passo que os códigos JavaScript estão totalmente
+em texto.Essa linguagem permite a utilização de diferentes plataformas, sendo elas Android, Linux e Windows, ou seja, ela 
+é passível de desenvolvimento em qualquer lugar. Uma das características mais interessantes do JavaScript é a sua 
+versatilidade, o que o torna uma linguagem que pode ser executada em uma infinidade de ambientes, passando pelo front-end e 
+indo até o desenvolvimento de jogos e aplicações para IoT.
